@@ -1,0 +1,61 @@
+.form-div {
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.form-input,
+.form-textarea {
+  width: 100%;
+  padding: 8px;
+  margin: 6px 0;
+  box-sizing: border-box;
+}
+
+.form-btn {
+  padding: 6px 12px;
+  margin: 4px 4px 4px 0;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.form-btn:hover {
+  background-color: #0056b3;
+}
+
+.form-btn.cancel {
+  background-color: gray;
+}
+
+.ul-style {
+  list-style: none;
+  padding: 0;
+}
+
+.ul-style li {
+  border: 1px solid #ccc;
+  margin: 6px 0;
+  padding: 10px;
+  border-radius: 4px;
+  background-color: #f9f9f9;
+}
+
+.draggable-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.drag-handle {
+  cursor: grab;
+}
+
+h2 {
+  margin-top: 30px;
+}
+
+.p-msg {
+  margin: 4px 0;
+}
