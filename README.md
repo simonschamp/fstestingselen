@@ -8,9 +8,7 @@ GitHub: https://github.com/simonschamp/fstesting
 Frontend:
 
 React
-
 TypeScript
-
 JavaScript
 
 CSS
