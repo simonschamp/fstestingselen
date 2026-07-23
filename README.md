@@ -16,13 +16,16 @@ JavaScript
 CSS
 
 
-
 Backend:
 
 RESTful API
+
 NodeJs
+
 Express
+
 TypeScript
+
 Database:
 
 MongoDB
