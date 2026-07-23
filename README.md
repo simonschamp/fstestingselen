@@ -26,9 +26,9 @@ Features/functionalities: Create, read, update, delete (CRUD) messages, drag-and
 
 To start contributing to this project
 
-Clone the project: git clone "git address"
-cd into the project's "name"
-Start testing
+- Clone the project: git clone "git address"
+- cd into the project's "name"
+- Start testing
 You can make a pull request
 
 More information: simonsheg@outlook.com
