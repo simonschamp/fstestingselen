@@ -1,4 +1,6 @@
-This is a full-stack application used for demonstrating testing. The core components of this project are detailed below.
+This is a full-stack application used for demonstrating testing. 
+
+The core components of this project are detailed below.
 
 GitHub: https://github.com/simonschamp/fstesting
 
