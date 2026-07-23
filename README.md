@@ -24,7 +24,8 @@ Command line
 
 npm run dev
 
-Features/functionalities: Create, read, update, delete (CRUD) messages, drag-and-drop, authentication, API fetching and rendering, translations, Database mocking, form input, and submissions
+Features/functionalities: 
+Create, read, update, delete (CRUD) messages, drag-and-drop, authentication, API fetching and rendering, translations, Database mocking, form input, and submissions
 
 
 To start contributing to this project
